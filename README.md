@@ -1,5 +1,5 @@
 # Split
-Unity Android Game
+An Android Game, Made with Unity
 
 It's a hyper-casual game that has only one mechanic. You split & merge to dodge obstacles.
 
